@@ -12,7 +12,7 @@ O projeto foi desenvolvido em Java e foi utilizado o Intelij IDE.
 Os conceitos de POO que foram aplicados nesse projeto são:
 
 >Seção 2: Conceitos de programação (Algoritmos, linguagem de programação, compilação, etc)
->
+
 >Seção 3: Introdução a linguagem Java (JDK/JVM, etc)
 
 >Seção 4: Estruturas sequencial (entrada/saída de dados, variáveis e tipos básicos, etc)
@@ -32,3 +32,9 @@ Os conceitos de POO que foram aplicados nesse projeto são:
 >Seção 11: Tópicos especiais em Java (Datas e Hora)
 
 >Seção 12: Nivelamento de conhecimento (Git, GitHub, etc)
+
+>Seção 13: Enumerações, composição
+
+>Seção 14: Herança, polimorfismo
+
+> Seção 15: Tratamento de exceções
